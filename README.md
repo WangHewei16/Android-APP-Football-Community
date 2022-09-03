@@ -37,7 +37,10 @@ to erase the pen mark with an eraser. The user can switch back to the tactical b
 the button with the “turn back arrow”. The figure below shows the switch among these three functions.
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Tactical%26drawing%20board%20display.png" width="600"/></div>
 
+### 4. Permission design
+I design different permissions between team captain and member in “My Team” interface. Because football community need to have two identities: `team captain` and `team member`, to meet the actual condition, different permissions and functions for captains and members have been divided from this stage. In the my team interface,judge whether he is the team captain by querying the user data. Different identities have different functions and permissions after entering the “My Team” interface. The figure below shows the difference between two identities and the algorithm to achieve it.
+<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/different%20permissions%20for%20captain%26member.png" width="750"/></div>
 
-### 4. Test 
+### 5. Test 
 The table below shows the test result after two round black-box software testing.
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/test%20condition.png" width="750"/></div>
