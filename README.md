@@ -39,5 +39,5 @@ the button with the “turn back arrow”. The figure below shows the switch amo
 
 
 ### Test 
-The table below shows the test result after two round test.
-<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/test%20condition.png" width="600"/></div>
+The table below shows the test result after two round black-box software testing.
+<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/test%20condition.png" width="750"/></div>
