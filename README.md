@@ -3,11 +3,13 @@ This APP is designed for people who like playing football in the community. The 
 
 `Mobile model when develop`: Pixel XL API 29
 
-<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP
-/Display images/Functions digrams.png?raw=true" width="700"/></div>
+
 
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP
-/Display images/Interfaces display.png?raw=true" width="700"/></div>
+/images/Functions digrams.png?raw=true" width="700"/></div>
 
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP
-/Display images/Tactical&drawing board display.png?raw=true" width="700"/></div>
+/images/Interfaces display.png?raw=true" width="700"/></div>
+
+<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP
+/images/Tactical&drawing board display.png?raw=true" width="700"/></div>
