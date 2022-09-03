@@ -5,8 +5,8 @@ This APP is designed for people who like playing football in the community. The 
 
 
 
-<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Functions%20digrams.png?raw=true" width="700"/></div>
+<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Functions%20digrams.png" width="700"/></div>
 
-<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Interfaces%20display.png?raw=true" width="700"/></div>
+<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Interfaces%20display.png" width="700"/></div>
 
-<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Tactical%26drawing%20board%20display.png?raw=true" width="700"/></div>
+<div align=center><img src="https://https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Tactical%26drawing%20board%20display.png" width="700"/></div>
