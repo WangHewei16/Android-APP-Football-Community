@@ -36,3 +36,8 @@ by default. Users can click the pen button to mark the tactical board with a yel
 to erase the pen mark with an eraser. The user can switch back to the tactical board to move the player by clicking
 the button with the “turn back arrow”. The figure below shows the switch among these three functions.
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Tactical%26drawing%20board%20display.png" width="600"/></div>
+
+
+### Test 
+The table below shows the test result after two round test.
+<div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/test%20condition.png" width="600"/></div>
