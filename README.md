@@ -3,6 +3,7 @@ This APP is designed for people who like playing football in the community. The 
 
 
 ### Configuration
+`Development tool`: Android Studio
 `Mobile model when develop`: Pixel XL API 29
 
 
