@@ -8,7 +8,7 @@ The figure below shows the overall diagram for this project.
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Functions%20digrams.png" width="700"/></div>
 
 
-Figure 1 shows the structure of this project. Three arrows with different colors (purple, yellow and blue) divided my
+The figure below shows the structure of this project. Three arrows with different colors (purple, yellow and blue) divided my
 project into three parts: login relevant, team relevant and community circle relevant. In the process of testing, I first
 conduct internal testing in three parts, and then conduct overall testing to ensure that there are almost no bugs in my
 project.
@@ -27,5 +27,5 @@ can press each button to switch functions freely, which is a convenient design b
 complex, and I will explain it in the video. Enter the “My Team” interface, the user enters the tactical board function
 by default. Users can click the pen button to mark the tactical board with a yellow pen, or click the eraser button
 to erase the pen mark with an eraser. The user can switch back to the tactical board to move the player by clicking
-the button with the “turn back arrow”. Figure 2 shows the switch among these three functions.
+the button with the “turn back arrow”. The figure below shows the switch among these three functions.
 <div align=center><img src="https://github.com/WangHewei16/Football-Community-Android-APP/blob/main/images/Tactical%26drawing%20board%20display.png" width="600"/></div>
