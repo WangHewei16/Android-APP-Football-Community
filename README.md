@@ -4,7 +4,9 @@ Developed a full-stack social mobile app for soccer lovers’ community; impleme
 
 ### 1. Configuration
 `Development tool`: Android Studio 2021.2.1.16-windows
+
 `Mobile model when develop`: Pixel XL API 29
+
 `Technical Skills & Tools`: Java, XML, JUnit, Gradle, Android Studio, Google Firebase
 
 ### 2. Motivation and Purpose
