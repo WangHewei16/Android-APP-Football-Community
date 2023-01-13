@@ -2,6 +2,7 @@
 Developed a full-stack social mobile app for soccer lovers’ community; implemented functions such as creating/joining teams, team management, live chat, moments sharing, locations, virtual drawing panels, tactics board, etc. Implemented the user interfaces and app’s business logic using Java and XML; Wrote JUnit test modules to ensure unit test coverage for the codebase; Utilized Gradle to manage dependencies and project builds. Set up app’s backend to handle user data storage and configured RESTful APIs to serve frontend requests; Deployed the backend system on Google Firebase Cloud.
 
 
+
 ### 1. Configuration
 `Development tool`: Android Studio 2021.2.1.16-windows
 
