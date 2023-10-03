@@ -1,4 +1,4 @@
-## FootieSphere APP for Soccer Enthusiasts in Dublin
+## FootieSphere Android Mobile APP for Irish Soccer Community
 Developed a full-stack social mobile app for the soccer lovers’ community in Dublin; implemented functions such as creating/joining teams, team management, live chat, moments sharing, locations, virtual drawing panels, tactics board, etc. Implemented the user interfaces and app’s business logic using Java and XML; Wrote JUnit test modules to ensure unit test coverage for the codebase; Utilized Gradle to manage dependencies and project builds. Set up the app’s backend to handle user data storage and configured RESTful APIs to serve frontend requests; Deployed the backend system on Google Firebase Cloud.
 
 
